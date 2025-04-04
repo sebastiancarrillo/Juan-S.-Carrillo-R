@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Juan Carrillo"
   avatar : "/assets/images/bioPhoto.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student in Computational Science at San Diego State University and UC Irvine, specializing in image processing and machine learning. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

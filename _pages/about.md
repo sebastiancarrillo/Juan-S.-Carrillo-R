@@ -13,16 +13,14 @@ My academic foundation began in Colombia, where I earned both my **Bachelor's an
 
 My current research includes building neural architectures to mitigate distortions such as blur and tilt in optical imaging — a critical challenge in remote sensing, astronomy, and long-distance surveillance systems. I use tools like **PyTorch**, **TensorFlow**, and **MATLAB**, and have experience with parallel programming in C, object-oriented design, and low-level Unix-based environments.
 
-At SDSU, I was funded through the **Center for Research in Mathematics and Computational Science (CSRC)** and served as a **Teaching Assistant for Calculus I**. At UCI, I TA'd for **CS146**, a Unix-focused course taught by Prof. Wayne Hayes, where I guided students through command-line workflows, scripting, and hands-on interaction with Linux-based systems.
-
-I also enjoy mentoring and sharing knowledge — I believe teaching is one of the best ways to refine your own understanding and contribute to the growth of others.
+In addition to research, I have an active role in teaching. At SDSU, I was funded through the **Center for Research in Mathematics and Computational Science (CSRC)** and served as a **Teaching Assistant for Calculus I**. At UCI, I TA’d for **CS146 (Unix)** — a technical, command-line focused course taught by Prof. Wayne Hayes — and also supported a **graduate-level Capstone course** where I assisted students in developing and delivering effective scientific communications, reports, and presentations. I enjoy mentoring and believe teaching is one of the best ways to reinforce understanding and inspire future researchers.
 
 ### Technical Skills
 
-- **Languages**: Python, C, MATLAB, HTML, JavaScript, PHP, SQL
-- **Libraries & Frameworks**: PyTorch, Keras, OpenCV, NumPy, SciPy
-- **Tools**: Git, Unix/Linux, OpenLab, Bash scripting
-- **Areas of Interest**: Image processing, neural networks, applied machine learning, computational optics
+- **Languages**: Python, C, MATLAB, HTML, JavaScript, PHP, SQL  
+- **Libraries & Frameworks**: PyTorch, Keras, OpenCV, NumPy, SciPy  
+- **Tools**: Git, Unix/Linux, Bash, OpenLab  
+- **Focus Areas**: Image processing, neural networks, machine learning, computational optics
 
 ### Vision
 
@@ -30,9 +28,9 @@ My long-term goal is to **work in research and development within industry**, pa
 
 ### Outside the Lab
 
-When I’m not working on models or grading assignments, I explore other passions that keep me balanced and inspired. I’m an enthusiast of **naked and multipurpose motorcycles**, often taking time to ride and disconnect from screens. I also enjoy **photography** — especially capturing urban landscapes and spontaneous moments — and I’m always up for discovering **new music**. My playlists range from calm instrumentals to high-energy Latin rhythms, and dancing is one of my favorite ways to unwind.
+When I’m not working on models or helping students debug code, I explore other passions that keep me grounded and inspired. I’m a fan of **naked and multipurpose motorcycles**, often taking time to ride and disconnect from screens. I also enjoy **photography** — especially capturing urban moments and textures — and I’m always discovering **new music**. My playlists adapt to my mood and range from smooth instrumentals to high-energy Latin rhythms. I also enjoy dancing — it's one of my favorite ways to unwind and recharge.
 
-This mix of analytical work and creative expression is what keeps me grounded and continuously motivated to grow.
+This mix of analytical work and creative expression keeps me balanced and motivated on my journey as a scientist and educator.
 
 ---
 

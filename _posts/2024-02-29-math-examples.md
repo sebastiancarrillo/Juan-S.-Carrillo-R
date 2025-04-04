@@ -1,6 +1,6 @@
 ---
 title: "Automatic Glaucoma Detection from Fundus Images"
-date: 2024-02-29
+date: 2019-02-29
 categories:
   - blog
 tags:
@@ -25,7 +25,7 @@ The system was trained and tested using a dataset of fundus images collected in 
 This work demonstrates the potential of combining image processing techniques with domain-specific knowledge to create accessible diagnostic tools that can have real-world medical impact.
 
 > IEEE Reference:  
-Carrillo, Juan, Lola Bautista, Jorge Villamizar, Juan Rueda, Mary Sanchez, *et al.*  
+Juan Carrillo, Lola Bautista, Jorge Villamizar, Juan Rueda and Mary Sanchez 
 > "Glaucoma detection using fundus images of the eye."  
 > *2019 XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)*, pp. 1–4. IEEE, 2019.  
 > [DOI: 10.1109/STSIVA.2019.8730250](https://doi.org/10.1109/STSIVA.2019.8730250)

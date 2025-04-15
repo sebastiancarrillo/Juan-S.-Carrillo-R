@@ -111,3 +111,20 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Custom styles
+sass:
+  style: compressed
+
+minimal_mistakes_skin: default
+
+# Add this if not already present
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      css: "/assets/css/custom.css"

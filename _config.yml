@@ -1,21 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Juan S. Carrillo
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Researcher in AI for image restoration and atmospheric turbulence mitigation.
   Exploring optics, deep learning, and signal processing. 
   Previously worked on medical imaging applications, including automated analysis for glaucoma detection.
@@ -25,31 +10,16 @@ github_username: sebastiancarrillo
 minimal_mistakes_skin: default
 search: true
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -61,7 +31,7 @@ plugins:
 author:
   name   : "Juan Carrillo"
   avatar : "/assets/images/bioPhoto.jpeg"
-  bio    : "Ph.D. student in Computational Science at San Diego State University and UC Irvine, specializing in image processing and machine learning. "
+  bio    : "Ph.D. student in Computational Science at San Diego State University and UC Irvine, specializing in image processing and machine learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -85,8 +55,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/juans3b4s/"
 
+sass:
+  style: compressed
+
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -97,7 +69,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+      classes: wide
+      css: "/assets/css/custom.css"
+
   - scope:
       path: "_pages"
       type: pages
@@ -111,20 +85,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Custom styles
-sass:
-  style: compressed
-
-minimal_mistakes_skin: default
-
-# Add this if not already present
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-      classes: wide
-      css: "/assets/css/custom.css"
